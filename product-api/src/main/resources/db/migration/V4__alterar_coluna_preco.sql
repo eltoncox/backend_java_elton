@@ -1,0 +1,1 @@
+ALTER TABLE product ALTER COLUMN preco TYPE numeric(10,2);
